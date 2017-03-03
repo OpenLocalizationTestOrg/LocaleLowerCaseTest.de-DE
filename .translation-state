@@ -37,9 +37,9 @@
       "ArchiveFileCommit": "a13a8fa6aff2ea8482cb249c7fb412df715e6756",
       "ArchiveFileDateTime": "2017-03-03T02:24:30.4453158Z",
       "ArchiveException": null,
-      "BilingualFilePath": null,
-      "BilingualFileCommit": null,
-      "BilingualDateTime": "0001-01-01T00:00:00",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-DE\\master\\LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf",
+      "BilingualFileCommit": "ce8a3a8efed3bac8c2f259300a2b733fc7698726",
+      "BilingualDateTime": "2017-03-03T02:35:07.3352081Z",
       "BilingualException": null
     }
   }
