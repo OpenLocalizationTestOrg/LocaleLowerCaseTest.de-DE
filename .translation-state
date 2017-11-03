@@ -52,7 +52,11 @@
       "HandoffFileCommit": "c8675bd68561ec845400cb31ce741e874f116075",
       "HandoffDateTime": "2017-11-03T08:49:12.3239594Z",
       "HandoffXliffHash": "aae12bda86d66a9eaf88f5318213855f3d1fa9d7",
-      "HandoffPriority": ""
+      "HandoffName": "LocaleLowerCaseTest_HT_OL#Test1#20171103T035934",
+      "HandoffPriority": "",
+      "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-DE\\master\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf",
+      "ArchiveFileCommit": "473d8b780c000b7ba27856cfc42f1d8636f40a95",
+      "ArchiveFileDateTime": "2017-11-03T11:10:15.7872658Z"
     }
   }
 }
