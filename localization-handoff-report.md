@@ -12,8 +12,8 @@
 ##### <a name='6920c3866aa9379c2624e8c2f4ab61945b2b28812'></a> Source: [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/8cd205b1e1ce0b94ef1c0cd44e6433d4c58f7be2/test/Test%601.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/708556eb0f11373cea5dfb9bfbb9319c9251b19a/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Test%601.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf)
-* Handoff Datetime: 2017-11-03 03:07:08
+* Handoff File: [Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/c8675bd68561ec845400cb31ce741e874f116075/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Test%601.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf)
+* Handoff Datetime: 2017-11-03 08:49:12
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
