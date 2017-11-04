@@ -1,23 +1,38 @@
 # <a name='report-top'></a> Localization Archive Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/8cd205b1e1ce0b94ef1c0cd44e6433d4c58f7be2/test/Test%601.md) | ArchivedSuccess | [Details](#6920c3866aa9379c2624e8c2f4ab61945b2b28812)
+ [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/a3b77224029d1ef0183871836f623c67f4c87e7d/test/Test%601.md) | ArchivedSuccess | [Details](#ac4b78a288421be8dc454b4e866298b0957713a02)
+ [test\Test`2.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/3062631758e8ea95b31f723cd272caae6ff8b172/test/Test%602.md) | ArchivedSuccess | [Details](#6931ee99a82b8c1a48bd8ce05f038ba5de11a9643)
 
 ## Item Details
-##### <a name='6920c3866aa9379c2624e8c2f4ab61945b2b28812'></a> Source: [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/8cd205b1e1ce0b94ef1c0cd44e6433d4c58f7be2/test/Test%601.md)
+##### <a name='ac4b78a288421be8dc454b4e866298b0957713a02'></a> Source: [test\Test`1.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/a3b77224029d1ef0183871836f623c67f4c87e7d/test/Test%601.md)
 * Status: ArchivedSuccess
 * Target File: 
-* Handoff File: [Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/c8675bd68561ec845400cb31ce741e874f116075/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Test%601.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf)
-* Handoff Datetime: 2017-11-03 08:49:12
+* Handoff File: [Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/b66f3a36268c252002cb7449aa22b4646a0c4025/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Test%601.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf)
+* Handoff Datetime: 2017-11-04 16:03:26
 * Handoff Reason: Include
-* Handoff Name: LocaleLowerCaseTest_HT_OL#Test1#20171103T035934
-* Archive File: [Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/473d8b780c000b7ba27856cfc42f1d8636f40a95/ol-archive/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Test%601.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf)
-* Archive Datetime: 2017-11-03 11:10:15
+* Handoff Name: LocaleLowerCaseTest_HT_OL#Test1#20171104T090037
+* Archive File: [Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/983e715ccc138dc90acaefc516e37f97ec2eebd0/ol-archive/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Test%601.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf)
+* Archive Datetime: 2017-11-04 16:13:39
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='6931ee99a82b8c1a48bd8ce05f038ba5de11a9643'></a> Source: [test\Test`2.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/3062631758e8ea95b31f723cd272caae6ff8b172/test/Test%602.md)
+* Status: ArchivedSuccess
+* Target File: 
+* Handoff File: [Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/7bb422b75b0e61b6cbd5580ee6f408dc7eb27644/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Test%602.c3716d035de581085f946fa8a21e9df5bcdf654f.de-de.xlf)
+* Handoff Datetime: 2017-11-04 15:13:04
+* Handoff Reason: Include
+* Handoff Name: LocaleLowerCaseTest_HT_OL#Test1#20171104T090037
+* Archive File: [Test`2.c3716d035de581085f946fa8a21e9df5bcdf654f.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/983e715ccc138dc90acaefc516e37f97ec2eebd0/ol-archive/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Test%602.c3716d035de581085f946fa8a21e9df5bcdf654f.de-de.xlf)
+* Archive Datetime: 2017-11-04 16:13:39
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * Handback Name: 
