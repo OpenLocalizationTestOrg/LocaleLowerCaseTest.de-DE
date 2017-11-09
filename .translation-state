@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "f0e80262666a8fc7d947d860e5d24ec4146e3eeb",
+  "LastProcessedCommit": "2ac47e1c76e6d51d0adc8071e29a81f1add186cc",
   "LastTranslatedCommit": "c9428fca101b6fe6c485aa5f7cd1c3cd7a484f0d",
   "LastConfigHash": "948aa08b7cda192c730a905ab432f3b8d71e43e4",
   "Items": {
@@ -100,6 +100,21 @@
       "HandoffDateTime": "2017-11-06T04:58:57.192283Z",
       "HandoffXliffHash": "59f8024676415ba351870fd0c695b8fb86062c8a",
       "HandoffName": "LocaleLowerCaseTest_HT_OL#Test1#20171104T090037",
+      "HandoffPriority": ""
+    },
+    "0a15c5dd2a157768d0e264531e8331752bf2c460": {
+      "FileHash": "0a15c5dd2a157768d0e264531e8331752bf2c460",
+      "SourceFileCommit": "2ac47e1c76e6d51d0adc8071e29a81f1add186cc",
+      "SourceFilePath": "test\\Test11092017.md",
+      "HandoffReason": 1,
+      "FilePathList": [
+        "test\\Test11092017.md"
+      ],
+      "TranslationType": 1,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-DE\\master\\Test11092017.7d6ca483899ea880c755aa9baa221f2546ff0ef5.de-de.xlf",
+      "HandoffFileCommit": "fcde88514cbd54dc3efefddb2572be6fdd609c8a",
+      "HandoffDateTime": "2017-11-09T09:13:03.9351204Z",
+      "HandoffXliffHash": "929d7ebe8fd794022515464e84390fdb96a4e103",
       "HandoffPriority": ""
     }
   }
