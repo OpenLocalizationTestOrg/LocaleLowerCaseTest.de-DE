@@ -100,10 +100,7 @@
       "HandoffDateTime": "2017-11-06T04:58:57.192283Z",
       "HandoffXliffHash": "59f8024676415ba351870fd0c695b8fb86062c8a",
       "HandoffName": "LocaleLowerCaseTest_HT_OL#Test1#20171117T080113",
-      "HandoffPriority": "",
-      "ArchiveFilePath": "ol-archive\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-DE\\master\\Test`1.2566724fb77af3b0efacc67e473603dec92ccf17.de-de.xlf",
-      "ArchiveFileCommit": "efc573f28cbfbd5bf9036c52fe1d94ce0c6d7518",
-      "ArchiveFileDateTime": "2017-11-17T16:13:40.0735352Z"
+      "HandoffPriority": ""
     },
     "0a15c5dd2a157768d0e264531e8331752bf2c460": {
       "FileHash": "0a15c5dd2a157768d0e264531e8331752bf2c460",
