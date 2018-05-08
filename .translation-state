@@ -23,18 +23,12 @@
       "HandbackFileCommit": "ea21454d4ffde778ca8a66d86c288e77ca3d9240",
       "HandbackDateTime": "2017-03-03T02:45:22.2089804Z",
       "UpdatedDateTime": "2017-03-03T02:45:22.2089804Z",
-      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-DE\\master\\LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf",
-      "BilingualFileCommit": "ce8a3a8efed3bac8c2f259300a2b733fc7698726",
-      "BilingualDateTime": "2017-11-06T04:38:48.5094073Z",
-      "BilingualException": {
-        "internal_error_code": "cache_file_not_found",
-        "internal_error_message": "The skeleton or source cache file of 7001907bc5caf0f276805ecbd626792702c563ea is not found.",
-        "internal_error_retriable": false,
-        "exception_message": "The skeleton or source cache file of 7001907bc5caf0f276805ecbd626792702c563ea is not found.",
-        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
-        "stack_trace": null,
-        "extended_information": null
-      }
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-de\\master\\LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf",
+      "BilingualFileCommit": "ea21454d4ffde778ca8a66d86c288e77ca3d9240",
+      "BilingualTargetFilePath": "test\\LocaleLowerCaseTest.md",
+      "BilingualTargetFileCommit": "a8aaa355f9ba1543e9febd9fb3ad064995567f6c",
+      "BilingualBranch": "master-sxs",
+      "BilingualDateTime": "2018-05-08T11:57:51.3231505Z"
     },
     "6920c3866aa9379c2624e8c2f4ab61945b2b2881": {
       "FileHash": "6920c3866aa9379c2624e8c2f4ab61945b2b2881",
@@ -212,7 +206,13 @@
       "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-de\\master\\Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf",
       "HandbackFileCommit": "902b54947df57b42d6abf44b4608d97929d3489d",
       "HandbackDateTime": "2018-05-08T11:57:31.7856129Z",
-      "UpdatedDateTime": "2018-05-08T11:57:31.7856129Z"
+      "UpdatedDateTime": "2018-05-08T11:57:31.7856129Z",
+      "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-de\\master\\Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf",
+      "BilingualFileCommit": "902b54947df57b42d6abf44b4608d97929d3489d",
+      "BilingualTargetFilePath": "test\\Task1253037Test.md",
+      "BilingualTargetFileCommit": "a8aaa355f9ba1543e9febd9fb3ad064995567f6c",
+      "BilingualBranch": "master-sxs",
+      "BilingualDateTime": "2018-05-08T11:57:51.3231505Z"
     }
   }
 }

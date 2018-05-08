@@ -1,29 +1,48 @@
 # <a name='report-top'></a> Localization Bilingual Report
 
 ## Summary
- Total Files | 1
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/43005fad50282e1d7eb2b234e05d7f949ed92bcf/test/LocaleLowerCaseTest.md) | HandedOffSuccess | [Details](#7001907bc5caf0f276805ecbd626792702c563ea1)
+ [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/497ef533af1ce60eea206a466039a56b861e7cf2/test/LocaleLowerCaseTest.md) | ArchivedSuccess | [Details](#db4fc618da24501b0eb2dc0a509d82d8b85b706d1)
+ [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/2f6d625110484e26e137a838e4a98e7a8070ce33/test/Task1253037Test.md) | InSyncHandedBackSuccess | [Details](#e59a73c84510420622ef2203baacb35f03f034d34)
 
 ## Item Details
-##### <a name='7001907bc5caf0f276805ecbd626792702c563ea1'></a> Source: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/43005fad50282e1d7eb2b234e05d7f949ed92bcf/test/LocaleLowerCaseTest.md)
-* Status: HandedOffSuccess
-* Target File: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/blob/c9428fca101b6fe6c485aa5f7cd1c3cd7a484f0d/test/LocaleLowerCaseTest.md)
-* Handoff File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/17a18c9136b12a28076714bd3ebd9a66b88ad710/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf)
-* Handoff Datetime: 2017-11-06 03:16:56
+##### <a name='db4fc618da24501b0eb2dc0a509d82d8b85b706d1'></a> Source: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/497ef533af1ce60eea206a466039a56b861e7cf2/test/LocaleLowerCaseTest.md)
+* Status: ArchivedSuccess
+* Target File: 
+* Handoff File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/a42d0fcdeef0f4b22616104824d5865a4f1a1862/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf)
+* Handoff Datetime: 2017-11-17 11:57:20
+* Handoff Reason: Include
+* Handoff Name: LocaleLowerCaseTest_HT_OL#Test1#20171117T080113
+* Archive File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/efc573f28cbfbd5bf9036c52fe1d94ce0c6d7518/ol-archive/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf)
+* Archive Datetime: 2017-11-17 16:13:40
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* Current Target File: [test\LocaleLowerCaseTest.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/blob/c9428fca101b6fe6c485aa5f7cd1c3cd7a484f0d/test/LocaleLowerCaseTest.md)
+* Current Handback File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/ea21454d4ffde778ca8a66d86c288e77ca3d9240/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf)
+* Current Handback Datetime: 2017-03-03 02:45:22
+* Bilingual File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/ea21454d4ffde778ca8a66d86c288e77ca3d9240/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-de/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf)
+* Bilingual Datetime: 2018-05-08 11:57:51
+* [Back to Top](#report-top)
+
+##### <a name='e59a73c84510420622ef2203baacb35f03f034d34'></a> Source: [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/2f6d625110484e26e137a838e4a98e7a8070ce33/test/Task1253037Test.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/blob/854d710b3183968e1d9e363e98ccad0038ff0ba4/test/Task1253037Test.md)
+* Handoff File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/9eb2aee0a4505f9a8e6fbc212ab04c3b26a8871e/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf)
+* Handoff Datetime: 2018-05-08 08:36:17
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/ea21454d4ffde778ca8a66d86c288e77ca3d9240/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf)
-* Handback Datetime: 2017-03-03 02:45:22
+* Handback File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/902b54947df57b42d6abf44b4608d97929d3489d/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-de/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf)
+* Handback Datetime: 2018-05-08 11:57:31
 * Handback Name: 
-* Bilingual File: [LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/ce8a3a8efed3bac8c2f259300a2b733fc7698726/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/LocaleLowerCaseTest.a47dea4a0d9bca8cf007ef5d5443046c4dff2a81.de-de.xlf)
-* Bilingual Datetime: 2017-11-06 04:38:48
-* Bilingual Error:[cache_file_not_found](#7001907bc5caf0f276805ecbd626792702c563ea1cache_file_not_found)
+* Bilingual File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/902b54947df57b42d6abf44b4608d97929d3489d/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-de/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf)
+* Bilingual Datetime: 2018-05-08 11:57:51
 * [Back to Top](#report-top)
 
 
