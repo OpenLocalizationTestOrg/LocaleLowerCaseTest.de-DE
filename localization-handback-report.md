@@ -11,16 +11,18 @@
 ## Item Details
 ##### <a name='e59a73c84510420622ef2203baacb35f03f034d34'></a> Source: [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest/blob/2f6d625110484e26e137a838e4a98e7a8070ce33/test/Task1253037Test.md)
 * Status: InSyncHandedBackSuccess
-* Target File: [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/blob/854d710b3183968e1d9e363e98ccad0038ff0ba4/test/Task1253037Test.md)
+* Target File: [test\Task1253037Test.md](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/blob/629410eeba082a861a8e84bc5b4f6ecd3699e585/test/Task1253037Test.md)
 * Handoff File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handoff/blob/9eb2aee0a4505f9a8e6fbc212ab04c3b26a8871e/ol-handoff/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-DE/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf)
 * Handoff Datetime: 2018-05-08 08:36:17
 * Handoff Reason: Include
 * Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/902b54947df57b42d6abf44b4608d97929d3489d/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-de/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf)
-* Handback Datetime: 2018-05-08 11:57:31
+* Handback File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/6ff65515dc94547bcad33c037bfda48937c625b3/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-de/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf)
+* Handback Datetime: 2018-05-10 14:00:44
 * Handback Name: 
+* Bilingual File: [Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf](https://github.com/OpenLocalizationTestOrg/LocaleLowerCaseTest.handback/blob/902b54947df57b42d6abf44b4608d97929d3489d/ol-handback/OpenLocalizationTestOrg/LocaleLowerCaseTest.de-de/master/Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf)
+* Bilingual Datetime: 2018-05-08 11:57:51
 * [Back to Top](#report-top)
 
 

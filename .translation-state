@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "2f6d625110484e26e137a838e4a98e7a8070ce33",
-  "LastTranslatedCommit": "854d710b3183968e1d9e363e98ccad0038ff0ba4",
+  "LastTranslatedCommit": "629410eeba082a861a8e84bc5b4f6ecd3699e585",
   "LastConfigHash": "948aa08b7cda192c730a905ab432f3b8d71e43e4",
   "Items": {
     "7001907bc5caf0f276805ecbd626792702c563ea": {
@@ -201,12 +201,12 @@
       "HandoffDateTime": "2018-05-08T08:36:17.6823421Z",
       "HandoffXliffHash": "331eb724c7f83c72c665721e21e40c79ee3a7c2a",
       "HandoffPriority": "",
-      "TargetFileCommit": "854d710b3183968e1d9e363e98ccad0038ff0ba4",
+      "TargetFileCommit": "629410eeba082a861a8e84bc5b4f6ecd3699e585",
       "TargetFilePath": "test\\Task1253037Test.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-de\\master\\Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf",
-      "HandbackFileCommit": "902b54947df57b42d6abf44b4608d97929d3489d",
-      "HandbackDateTime": "2018-05-08T11:57:31.7856129Z",
-      "UpdatedDateTime": "2018-05-08T11:57:31.7856129Z",
+      "HandbackFileCommit": "6ff65515dc94547bcad33c037bfda48937c625b3",
+      "HandbackDateTime": "2018-05-10T14:00:44.6618204Z",
+      "UpdatedDateTime": "2018-05-10T14:00:44.6618204Z",
       "BilingualFilePath": "ol-handback\\OpenLocalizationTestOrg\\LocaleLowerCaseTest.de-de\\master\\Task1253037Test.c7d36845f7f564386ec428c01a3904b397dddbd6.de-de.xlf",
       "BilingualFileCommit": "902b54947df57b42d6abf44b4608d97929d3489d",
       "BilingualTargetFilePath": "test\\Task1253037Test.md",
