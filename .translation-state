@@ -28,7 +28,7 @@
       "BilingualTargetFilePath": "test\\LocaleLowerCaseTest.md",
       "BilingualTargetFileCommit": "a8aaa355f9ba1543e9febd9fb3ad064995567f6c",
       "BilingualBranch": "master-sxs",
-      "BilingualDateTime": "2018-05-08T11:57:51.3231505Z"
+      "BilingualDateTime": "2018-05-10T14:01:08.9329936Z"
     },
     "6920c3866aa9379c2624e8c2f4ab61945b2b2881": {
       "FileHash": "6920c3866aa9379c2624e8c2f4ab61945b2b2881",
@@ -212,7 +212,16 @@
       "BilingualTargetFilePath": "test\\Task1253037Test.md",
       "BilingualTargetFileCommit": "a8aaa355f9ba1543e9febd9fb3ad064995567f6c",
       "BilingualBranch": "master-sxs",
-      "BilingualDateTime": "2018-05-08T11:57:51.3231505Z"
+      "BilingualDateTime": "2018-05-10T14:01:08.9329936Z",
+      "BilingualException": {
+        "internal_error_code": "cache_file_not_found",
+        "internal_error_message": "The skeleton or source cache file of e59a73c84510420622ef2203baacb35f03f034d3 is not found.",
+        "internal_error_retriable": false,
+        "exception_message": "The skeleton or source cache file of e59a73c84510420622ef2203baacb35f03f034d3 is not found.",
+        "exception_type": "Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException",
+        "stack_trace": null,
+        "extended_information": null
+      }
     }
   }
 }
